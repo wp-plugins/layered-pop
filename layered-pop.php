@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Layered Pop
-Plugin URI: http://layeredpopups.com/
-Description: Create multi-layers animated popup. Get more advantages with premium <a href="http://layeredpopups.com/" target="_blank"><strong>Layered Popups</strong></a> plugin.
-Version: 0.10
+Plugin URI: https://layeredpopups.com/
+Description: Create multi-layers animated popup. Get more advantages with premium <a href="https://layeredpopups.com/" target="_blank"><strong>Layered Popups</strong></a> plugin.
+Version: 0.11
 Author: Ivan Churakov
-Author URI: http://layeredpopups.com/
+Author URI: https://layeredpopups.com/
 */
 define('LPL_RECORDS_PER_PAGE', '20');
-define('LPL_VERSION', 1.80);
+define('LPL_VERSION', 0.11);
 define('LPL_AWEBER_APPID', '0e193739');
 define('LPL_EXPORT_VERSION', '0001');
 

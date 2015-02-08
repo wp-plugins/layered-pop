@@ -1,10 +1,10 @@
 === Layered Pop ===
 Contributors: ichurakov
-Donate link: http://layeredpopups.com/
+Donate link: https://layeredpopups.com/
 Tags: pop, pop-up, popup, layered popup
-Requires at least: 3.3
-Tested up to: 3.8.1
-Stable tag: 0.10
+Requires at least: 3.6
+Tested up to: 4.1
+Stable tag: 0.11
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,9 +14,9 @@ Create multi-layers animated popup.
 
 Internet is full of boring popups. So, it's a time to break this trend. That's why I created "Layered Pop". With this plugin you can realize your imagination and make unique multi-layers popup window for your website. You can create multiple layers with whatever-you-want content and add custom transitions/animations for each layer. You can raise popup window on page load or show it on click event. Make your website more attractive and pay users attention to certain stuff.
 
-Do you want demo? It is <a href="http://halfdata.com/milkyway/?ulp=fExN61OHHKl3kJ7t">here</a>.
+Do you want demo? It is <a href="https://halfdata.com/milkyway/layered-popups.html">here</a>.
 
-If you want to create unlimited number of popups, add opt-in form and integrate it with popular autoresponders (MailChimp, GetResponse, AWeber, iContact, Campaign Monitor, MyMail), try <a href="http://layeredpopups.com/">Layered Popups</a> plugin. It has tons additional features to drive your business.
+If you want to create unlimited number of popups, add opt-in form and integrate it with popular autoresponders and e-mail marketing systems (MailChimp, AWeber, Constant Contact, GetResponse, iContact, Mad Mimi, Sendy, Interspire, Benchmark, Campaign Monitor, ActiveCampaign, MailPoet (WYSIJA), SendPress, MailerLite, Your Mailing List Provider (YMLP), Ontraport (Office Auto Pilot), FreshMail, SendReach, SalesAutoPilot (MailMaster), Direct Mail for Mac OS X, Customer.io, E-goi, MyMail and MailWizz), try <a href="https://layeredpopups.com/">Layered Popups</a> plugin. It has tons additional features to drive your business.
 
 == Installation ==
 
@@ -38,6 +38,9 @@ None.
 None.
 
 == Changelog ==
+
+= 0.11 =
+Header Updated.
 
 = 0.10 =
 Initial release.
